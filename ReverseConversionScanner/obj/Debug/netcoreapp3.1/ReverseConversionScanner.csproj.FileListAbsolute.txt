@@ -1,0 +1,16 @@
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\bin\Debug\netcoreapp3.1\ReverseConversionScanner.exe
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\bin\Debug\netcoreapp3.1\ReverseConversionScanner.deps.json
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\bin\Debug\netcoreapp3.1\ReverseConversionScanner.runtimeconfig.json
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\bin\Debug\netcoreapp3.1\ReverseConversionScanner.runtimeconfig.dev.json
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\bin\Debug\netcoreapp3.1\ReverseConversionScanner.dll
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\bin\Debug\netcoreapp3.1\ReverseConversionScanner.pdb
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.csproj.AssemblyReference.cache
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.AssemblyInfoInputs.cache
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.AssemblyInfo.cs
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.csproj.CoreCompileInputs.cache
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.csproj.CopyComplete
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.dll
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.pdb
+C:\Users\dwell\source\repos\ReverseConversionScanner\ReverseConversionScanner\obj\Debug\netcoreapp3.1\ReverseConversionScanner.genruntimeconfig.cache
